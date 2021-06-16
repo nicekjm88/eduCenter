@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/eduCenter/static/css/main.9cb659a7.chunk.css",
+    "main.css": "/eduCenter/static/css/main.cd568f68.chunk.css",
     "main.js": "/eduCenter/static/js/main.7e2e9b1d.chunk.js",
     "main.js.map": "/eduCenter/static/js/main.7e2e9b1d.chunk.js.map",
     "runtime-main.js": "/eduCenter/static/js/runtime-main.c1026fd2.js",
@@ -8,13 +8,13 @@
     "static/js/2.eb40c8d0.chunk.js": "/eduCenter/static/js/2.eb40c8d0.chunk.js",
     "static/js/2.eb40c8d0.chunk.js.map": "/eduCenter/static/js/2.eb40c8d0.chunk.js.map",
     "index.html": "/eduCenter/index.html",
-    "static/css/main.9cb659a7.chunk.css.map": "/eduCenter/static/css/main.9cb659a7.chunk.css.map",
+    "static/css/main.cd568f68.chunk.css.map": "/eduCenter/static/css/main.cd568f68.chunk.css.map",
     "static/js/2.eb40c8d0.chunk.js.LICENSE.txt": "/eduCenter/static/js/2.eb40c8d0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c1026fd2.js",
     "static/js/2.eb40c8d0.chunk.js",
-    "static/css/main.9cb659a7.chunk.css",
+    "static/css/main.cd568f68.chunk.css",
     "static/js/main.7e2e9b1d.chunk.js"
   ]
 }
