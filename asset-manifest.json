@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/eduCenter/static/css/main.9cb659a7.chunk.css",
-    "main.js": "/eduCenter/static/js/main.11cd8c92.chunk.js",
-    "main.js.map": "/eduCenter/static/js/main.11cd8c92.chunk.js.map",
+    "main.js": "/eduCenter/static/js/main.7e2e9b1d.chunk.js",
+    "main.js.map": "/eduCenter/static/js/main.7e2e9b1d.chunk.js.map",
     "runtime-main.js": "/eduCenter/static/js/runtime-main.c1026fd2.js",
     "runtime-main.js.map": "/eduCenter/static/js/runtime-main.c1026fd2.js.map",
     "static/js/2.eb40c8d0.chunk.js": "/eduCenter/static/js/2.eb40c8d0.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.c1026fd2.js",
     "static/js/2.eb40c8d0.chunk.js",
     "static/css/main.9cb659a7.chunk.css",
-    "static/js/main.11cd8c92.chunk.js"
+    "static/js/main.7e2e9b1d.chunk.js"
   ]
 }
