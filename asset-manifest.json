@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/eduCenter/static/css/main.ddfc388a.chunk.css",
-    "main.js": "/eduCenter/static/js/main.a1f8d003.chunk.js",
-    "main.js.map": "/eduCenter/static/js/main.a1f8d003.chunk.js.map",
+    "main.css": "/eduCenter/static/css/main.30fdc068.chunk.css",
+    "main.js": "/eduCenter/static/js/main.c9efa966.chunk.js",
+    "main.js.map": "/eduCenter/static/js/main.c9efa966.chunk.js.map",
     "runtime-main.js": "/eduCenter/static/js/runtime-main.c1026fd2.js",
     "runtime-main.js.map": "/eduCenter/static/js/runtime-main.c1026fd2.js.map",
-    "static/js/2.1b4ed287.chunk.js": "/eduCenter/static/js/2.1b4ed287.chunk.js",
-    "static/js/2.1b4ed287.chunk.js.map": "/eduCenter/static/js/2.1b4ed287.chunk.js.map",
+    "static/js/2.3054339c.chunk.js": "/eduCenter/static/js/2.3054339c.chunk.js",
+    "static/js/2.3054339c.chunk.js.map": "/eduCenter/static/js/2.3054339c.chunk.js.map",
     "index.html": "/eduCenter/index.html",
-    "static/css/main.ddfc388a.chunk.css.map": "/eduCenter/static/css/main.ddfc388a.chunk.css.map",
-    "static/js/2.1b4ed287.chunk.js.LICENSE.txt": "/eduCenter/static/js/2.1b4ed287.chunk.js.LICENSE.txt"
+    "static/css/main.30fdc068.chunk.css.map": "/eduCenter/static/css/main.30fdc068.chunk.css.map",
+    "static/js/2.3054339c.chunk.js.LICENSE.txt": "/eduCenter/static/js/2.3054339c.chunk.js.LICENSE.txt",
+    "static/media/logo.2b102072.svg": "/eduCenter/static/media/logo.2b102072.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c1026fd2.js",
-    "static/js/2.1b4ed287.chunk.js",
-    "static/css/main.ddfc388a.chunk.css",
-    "static/js/main.a1f8d003.chunk.js"
+    "static/js/2.3054339c.chunk.js",
+    "static/css/main.30fdc068.chunk.css",
+    "static/js/main.c9efa966.chunk.js"
   ]
 }
